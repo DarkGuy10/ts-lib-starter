@@ -28,7 +28,7 @@
 		"@darkguy10/prettier-config": "1.0.0",
 		"prettier": "3.2.4",
 		"tsup": "8.0.2",
-		"typescript": "5.4.2",
+		"typescript": "5.4.5",
 		"vitest": "1.3.1"
 	}
 }
